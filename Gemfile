@@ -75,3 +75,8 @@ group :test do
 end
 
 gem 'devise', '~> 4.9', '>= 4.9.3'
+
+gem 'activestorage'
+
+gem 'bigdecimal'
+gem 'mutex_m'
